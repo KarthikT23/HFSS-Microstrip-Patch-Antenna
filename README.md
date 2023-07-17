@@ -9,6 +9,7 @@ Designing a 2.4 GHz antenna using Ansys HFSS
 
 # Front(-X) View
 ![image](https://github.com/KarthikT23/HFSS-Microstrip-Patch-Antenna/assets/119528503/7d88c15b-f59a-4671-974a-3d92a5b8baf2)
+
 The patch antenna designed to work at 2.4Ghz works at a frequency of 2.38Ghz here. The dielectric constant taken is 4.4 and dielectric height of the substrate is 1.6mm. The input impedance is 243 ohm.
 
 # S Parameter Plot
@@ -16,10 +17,12 @@ The patch antenna designed to work at 2.4Ghz works at a frequency of 2.38Ghz her
 
 # E Plane
 ![image](https://github.com/KarthikT23/HFSS-Microstrip-Patch-Antenna/assets/119528503/2bde039d-d725-4741-b0d9-23e95d87c3bd)
+
 Phi is taken from 0 to 0 degrees with step size 0 and theta is taken from 0 to 360 degrees with step size of 10.
 
 # H Plane
 ![image](https://github.com/KarthikT23/HFSS-Microstrip-Patch-Antenna/assets/119528503/1404f83b-cb46-459e-8704-8a6121b01da5)
+
 Phi is taken from 90 to 90 degrees with step size 0 and theta is taken from 0 to 360 degrees with step size of 10.
 
 # Gain vs Frequency Plot
